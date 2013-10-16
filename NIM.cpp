@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "mrsigz was here" << endl;
 	do
 	{
 		cout << endl << endl << endl;
